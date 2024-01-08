@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Mapper\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UNIS.WMS.OnBoarding.Infrastructure\UNIS.WMS.OnBoarding.Infrastructure.csproj" />
+    <ProjectReference Include="..\UNIS.WMS.OnBoarding.Model\UNIS.WMS.OnBoarding.Domain.csproj" />
+    <ProjectReference Include="..\UNIS.WMS.OnBoarding.Repository\UNIS.WMS.OnBoarding.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

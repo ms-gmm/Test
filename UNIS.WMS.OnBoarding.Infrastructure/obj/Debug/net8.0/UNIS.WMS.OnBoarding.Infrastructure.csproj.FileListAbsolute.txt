@@ -1,0 +1,11 @@
+C:\Users\11519\source\repos\UNIS.WMS.OnBoarding\UNIS.WMS.OnBoarding.Infrastructure\bin\Debug\net8.0\UNIS.WMS.OnBoarding.Infrastructure.deps.json
+C:\Users\11519\source\repos\UNIS.WMS.OnBoarding\UNIS.WMS.OnBoarding.Infrastructure\bin\Debug\net8.0\UNIS.WMS.OnBoarding.Infrastructure.dll
+C:\Users\11519\source\repos\UNIS.WMS.OnBoarding\UNIS.WMS.OnBoarding.Infrastructure\bin\Debug\net8.0\UNIS.WMS.OnBoarding.Infrastructure.pdb
+C:\Users\11519\source\repos\UNIS.WMS.OnBoarding\UNIS.WMS.OnBoarding.Infrastructure\obj\Debug\net8.0\UNIS.WMS.OnBoarding.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11519\source\repos\UNIS.WMS.OnBoarding\UNIS.WMS.OnBoarding.Infrastructure\obj\Debug\net8.0\UNIS.WMS.OnBoarding.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\11519\source\repos\UNIS.WMS.OnBoarding\UNIS.WMS.OnBoarding.Infrastructure\obj\Debug\net8.0\UNIS.WMS.OnBoarding.Infrastructure.AssemblyInfo.cs
+C:\Users\11519\source\repos\UNIS.WMS.OnBoarding\UNIS.WMS.OnBoarding.Infrastructure\obj\Debug\net8.0\UNIS.WMS.OnBoarding.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\11519\source\repos\UNIS.WMS.OnBoarding\UNIS.WMS.OnBoarding.Infrastructure\obj\Debug\net8.0\UNIS.WMS.OnBoarding.Infrastructure.dll
+C:\Users\11519\source\repos\UNIS.WMS.OnBoarding\UNIS.WMS.OnBoarding.Infrastructure\obj\Debug\net8.0\refint\UNIS.WMS.OnBoarding.Infrastructure.dll
+C:\Users\11519\source\repos\UNIS.WMS.OnBoarding\UNIS.WMS.OnBoarding.Infrastructure\obj\Debug\net8.0\UNIS.WMS.OnBoarding.Infrastructure.pdb
+C:\Users\11519\source\repos\UNIS.WMS.OnBoarding\UNIS.WMS.OnBoarding.Infrastructure\obj\Debug\net8.0\ref\UNIS.WMS.OnBoarding.Infrastructure.dll

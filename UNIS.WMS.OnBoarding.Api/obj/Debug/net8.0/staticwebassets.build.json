@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ECHI0y6xuyxuWTgv23u87zhqUFpH+aKPeOt7FrFlNwk=",
+  "Source": "UNIS.WMS.OnBoarding.Api",
+  "BasePath": "_content/UNIS.WMS.OnBoarding.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

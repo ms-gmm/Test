@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNIS.WMS.OnBoarding.Api", "UNIS.WMS.OnBoarding.Api\UNIS.WMS.OnBoarding.Api.csproj", "{FD27D08F-B256-411C-9FCD-2C5922ED87E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNIS.WMS.OnBoarding.Service", "UNIS.WMS.OnBoarding.Service\UNIS.WMS.OnBoarding.Service.csproj", "{0115374D-EA39-4447-8B68-C794BBD3663E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNIS.WMS.OnBoarding.Infrastructure", "UNIS.WMS.OnBoarding.Infrastructure\UNIS.WMS.OnBoarding.Infrastructure.csproj", "{2DBEBCE3-4AE5-4089-9891-62B14E1103B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNIS.WMS.OnBoarding.Domain", "UNIS.WMS.OnBoarding.Model\UNIS.WMS.OnBoarding.Domain.csproj", "{0423A84F-6D45-4B3C-8DA0-CCD9F7A5D846}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNIS.WMS.OnBoarding.Repository", "UNIS.WMS.OnBoarding.Repository\UNIS.WMS.OnBoarding.Repository.csproj", "{980798CB-F20D-4DEC-ACEA-118A1F5E619D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD27D08F-B256-411C-9FCD-2C5922ED87E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD27D08F-B256-411C-9FCD-2C5922ED87E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD27D08F-B256-411C-9FCD-2C5922ED87E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD27D08F-B256-411C-9FCD-2C5922ED87E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0115374D-EA39-4447-8B68-C794BBD3663E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0115374D-EA39-4447-8B68-C794BBD3663E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0115374D-EA39-4447-8B68-C794BBD3663E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0115374D-EA39-4447-8B68-C794BBD3663E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DBEBCE3-4AE5-4089-9891-62B14E1103B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DBEBCE3-4AE5-4089-9891-62B14E1103B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DBEBCE3-4AE5-4089-9891-62B14E1103B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DBEBCE3-4AE5-4089-9891-62B14E1103B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0423A84F-6D45-4B3C-8DA0-CCD9F7A5D846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0423A84F-6D45-4B3C-8DA0-CCD9F7A5D846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0423A84F-6D45-4B3C-8DA0-CCD9F7A5D846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0423A84F-6D45-4B3C-8DA0-CCD9F7A5D846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{980798CB-F20D-4DEC-ACEA-118A1F5E619D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980798CB-F20D-4DEC-ACEA-118A1F5E619D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980798CB-F20D-4DEC-ACEA-118A1F5E619D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980798CB-F20D-4DEC-ACEA-118A1F5E619D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7943CAC1-BA9A-4FD5-9088-AAD15C9180BA}
+	EndGlobalSection
+EndGlobal

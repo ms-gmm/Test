@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UNIS.WMS.OnBoarding.Repository/1.0.0": {
+        "dependencies": {
+          "UNIS.WMS.OnBoarding.Domain": "1.0.0"
+        },
+        "runtime": {
+          "UNIS.WMS.OnBoarding.Repository.dll": {}
+        }
+      },
+      "UNIS.WMS.OnBoarding.Domain/1.0.0": {
+        "runtime": {
+          "UNIS.WMS.OnBoarding.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UNIS.WMS.OnBoarding.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UNIS.WMS.OnBoarding.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

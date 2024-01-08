@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UNIS.WMS.OnBoarding.Api.props" />
+</Project>

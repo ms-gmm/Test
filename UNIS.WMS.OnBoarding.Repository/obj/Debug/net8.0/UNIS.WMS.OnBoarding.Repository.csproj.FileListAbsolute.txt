@@ -1,0 +1,15 @@
+C:\Users\11519\source\repos\UNIS.WMS.OnBoarding\UNIS.WMS.OnBoarding.Repository\bin\Debug\net8.0\UNIS.WMS.OnBoarding.Repository.deps.json
+C:\Users\11519\source\repos\UNIS.WMS.OnBoarding\UNIS.WMS.OnBoarding.Repository\bin\Debug\net8.0\UNIS.WMS.OnBoarding.Repository.dll
+C:\Users\11519\source\repos\UNIS.WMS.OnBoarding\UNIS.WMS.OnBoarding.Repository\bin\Debug\net8.0\UNIS.WMS.OnBoarding.Repository.pdb
+C:\Users\11519\source\repos\UNIS.WMS.OnBoarding\UNIS.WMS.OnBoarding.Repository\bin\Debug\net8.0\UNIS.WMS.OnBoarding.Domain.dll
+C:\Users\11519\source\repos\UNIS.WMS.OnBoarding\UNIS.WMS.OnBoarding.Repository\bin\Debug\net8.0\UNIS.WMS.OnBoarding.Domain.pdb
+C:\Users\11519\source\repos\UNIS.WMS.OnBoarding\UNIS.WMS.OnBoarding.Repository\obj\Debug\net8.0\UNIS.WMS.OnBoarding.Repository.csproj.AssemblyReference.cache
+C:\Users\11519\source\repos\UNIS.WMS.OnBoarding\UNIS.WMS.OnBoarding.Repository\obj\Debug\net8.0\UNIS.WMS.OnBoarding.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11519\source\repos\UNIS.WMS.OnBoarding\UNIS.WMS.OnBoarding.Repository\obj\Debug\net8.0\UNIS.WMS.OnBoarding.Repository.AssemblyInfoInputs.cache
+C:\Users\11519\source\repos\UNIS.WMS.OnBoarding\UNIS.WMS.OnBoarding.Repository\obj\Debug\net8.0\UNIS.WMS.OnBoarding.Repository.AssemblyInfo.cs
+C:\Users\11519\source\repos\UNIS.WMS.OnBoarding\UNIS.WMS.OnBoarding.Repository\obj\Debug\net8.0\UNIS.WMS.OnBoarding.Repository.csproj.CoreCompileInputs.cache
+C:\Users\11519\source\repos\UNIS.WMS.OnBoarding\UNIS.WMS.OnBoarding.Repository\obj\Debug\net8.0\UNIS.WMS.OnBoarding.Repository.csproj.CopyComplete
+C:\Users\11519\source\repos\UNIS.WMS.OnBoarding\UNIS.WMS.OnBoarding.Repository\obj\Debug\net8.0\UNIS.WMS.OnBoarding.Repository.dll
+C:\Users\11519\source\repos\UNIS.WMS.OnBoarding\UNIS.WMS.OnBoarding.Repository\obj\Debug\net8.0\refint\UNIS.WMS.OnBoarding.Repository.dll
+C:\Users\11519\source\repos\UNIS.WMS.OnBoarding\UNIS.WMS.OnBoarding.Repository\obj\Debug\net8.0\UNIS.WMS.OnBoarding.Repository.pdb
+C:\Users\11519\source\repos\UNIS.WMS.OnBoarding\UNIS.WMS.OnBoarding.Repository\obj\Debug\net8.0\ref\UNIS.WMS.OnBoarding.Repository.dll
